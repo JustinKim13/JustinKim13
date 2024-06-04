@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Justin Kim
+🌟 Aspiring Machine Learning Engineer | Software Engineer 🌟
 
-<!--
-**JustinKim13/JustinKim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm [Your Name], a developer passionate about software engineering and machine learning. I build robust applications and explore AI to solve real-world problems.
 
-Here are some ideas to get you started:
+💡 Tech I Love:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, Java, JavaScript
+Frameworks: PyTorch, TensorFlow, ReactJS, Spring Boot
+Databases: PostgreSQL, MongoDB
+🌱 Always Learning: Continuously expanding my skills in software and AI.
+
+👥 Let's Connect: Open to collaborations and new opportunities in SWE and MLE. Reach out on GitHub or LinkedIn.
