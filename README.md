@@ -14,6 +14,6 @@ Databases: PostgreSQL, MongoDB
 
 <p align="center">
   <a href='https://www.linkedin.com/in/justin-kim-4a2781282/' target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="LinkedIn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt="LinkedIn" width="150">
   </a>
 </p>
