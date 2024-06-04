@@ -1,4 +1,4 @@
-<img src="https://github.com/JustinKim13/JustinKim13/assets/136923917/4aa19c00-9982-4d03-826f-ddf3feb90104" alt="intro img" width="800" height="300">
+<img src="https://github.com/JustinKim13/JustinKim13/assets/136923917/4aa19c00-9982-4d03-826f-ddf3feb90104" alt="intro img" width="1500" height="800">
 Hi, I'm Justin Kim
 🌟 Aspiring Machine Learning Engineer | Software Engineer 🌟
 
