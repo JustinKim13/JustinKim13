@@ -1,7 +1,7 @@
 Hi, I'm Justin Kim
 🌟 Aspiring Machine Learning Engineer | Software Engineer 🌟
 
-👋 Hi! I'm [Your Name], a developer passionate about software engineering and machine learning. I build robust applications and explore AI to solve real-world problems.
+👋 Hi! I'm Justin Kim, a developer passionate about software engineering and machine learning. I build robust applications and explore AI to solve real-world problems.
 
 💡 Tech I Love:
 
