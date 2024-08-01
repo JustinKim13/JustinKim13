@@ -3,7 +3,7 @@
 **Contact Information:**
 - **Phone:** 612-916-2537
 - **Email:** [jtkimmn13@gmail.com](mailto:jtkimmn13@gmail.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/justin-kim-4a2781282/)](#)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/justin-kim-4a2781282/)
 - **GitHub:** [Your GitHub Profile](#)
 - **Portfolio:** [Your Portfolio](#)
 
