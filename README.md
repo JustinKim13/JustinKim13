@@ -1,52 +1,18 @@
-# Justin Kim
+# 💫 About Me:
+🚀 I'm currently working on<br>Building a real-time multiplayer quiz platform that generates questions from PDFs and video URLs using ML.<br><br>🤝 I'm looking to collaborate on<br>Machine learning research, AI-driven education tools, and innovative hackathon projects.<br><br>🙌 I'm looking for help with<br>Optimizing ML models for real-time question generation and improving cloud deployment strategies.<br><br>🌱 I'm currently learning<br>Efficient ML model deployment, RAG pipelines, and advanced NLP techniques.<br><br>💬 Ask me about<br>AI, machine learning research, hackathons, and building scalable tech projects.<br><br>⚡ Fun fact<br>I recently won the Korn Ferry Scholarship and thrive in high-energy hackathon environments! 🚀
 
-**Contact Information:**
-- **Phone:** 612-916-2537
-- **Email:** [jtkimmn13@gmail.com](mailto:jtkimmn13@gmail.com)
-- **LinkedIn:** [Connect with me!](https://www.linkedin.com/in/justin-kim-4a2781282/)
-- **Portfolio:** [Check it out!](https://justinkim13.github.io/Portfolio-Website/)
 
-## Education
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/justin-kim-4a2781282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jtkimmn13@gmail.com) 
 
-**University of Wisconsin Madison** | GPA: 3.7  
-Bachelor of Science in Computer Science, Minor in Data Science  
-Madison, WI | Expected Graduation: May 2026
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JustinKim13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JustinKim13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinKim13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Professional Experience
+---
+[![](https://visitcount.itsvg.in/api?id=JustinKim13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Machine Learning Engineer  
-**Astro AI Trading | Remote**  
-*Jan 2024 - Current*  
-- Led the sentiment analysis branch, implementing daily scraping routines using BeautifulSoup to collect financial news and social media data from over 1,400 sources.
-- Automated data integration into analysis pipelines, enhancing source reputation using SimilarWeb API metrics such as views, shares, and bounce rate.
-- Developed and fine-tuned sentiment analysis models using FinBERT and VADER, achieving 82% accuracy.
-- Enhanced relevance scoring with BERT embeddings, PCA, KMeans clustering, PySpark, and cosine similarity.
-- Utilized TF-IDF and spaCy for Named Entity Recognition, increasing market prediction relevance.
-- Achieved an average R² score of 96% in stock price prediction using RandomForestRegressor.
-- Supervised a team of 3, maintaining high code quality and providing mentorship.
-
-### Undergraduate Machine Learning Researcher  
-**Informatics Skunkworks | Madison, WI**  
-*July 2024 - August 2024*  
-- Developed and optimized machine learning models with Scikit-learn, TensorFlow, and PyTorch.
-- Utilized spaCy for Named Entity Recognition, enhancing relevance of research findings.
-
-## Projects
-
-### ML Movie Review + Recommendation App  
-**Technologies:** Django, React, JWT, Scikit-Learn, PostgreSQL  
-*July 2024*  
-- Built a responsive movie review platform, improving user engagement by 30%.
-- Implemented a high-precision recommendation engine, achieving 85% accuracy in personalized suggestions.
-- Developed secure JWT authentication and RESTful APIs, optimized for moderate traffic.
-
-### Bargain IOS App  
-**Technologies:** Swift, MongoDB Atlas, Firebase  
-*August 2024*  
-- [Project details to be added]
-
-## Technical Skills
-
-**Languages:** Python, Java, SQL, JavaScript, HTML5, CSS, R, C++  
-**Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Scikit-Learn, PyTorch, PostgreSQL, ReactJS, Django, Bootstrap  
-**Developer Tools:** Git, Docker, AWS  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
