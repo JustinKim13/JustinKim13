@@ -1,3 +1,6 @@
+<h1 align="center"> Hi 👋 I'm Justin Kim </h1>
+<hr>
+
 ## 💫 About Me:
 I am a second-year **Computer Science** student at **University of Wisconsin-Madison**, passionate about exploring **coding, machine learning**, and **building scalable software solutions**.
 
