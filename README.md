@@ -1,5 +1,16 @@
-# 💫 About Me:
-🚀 I'm currently working on<br>Building a real-time multiplayer quiz platform that generates questions from PDFs and video URLs using ML.<br><br>🤝 I'm looking to collaborate on<br>Machine learning research, AI-driven education tools, and innovative hackathon projects.<br><br>🙌 I'm looking for help with<br>Optimizing ML models for real-time question generation and improving cloud deployment strategies.<br><br>🌱 I'm currently learning<br>Efficient ML model deployment, RAG pipelines, and advanced NLP techniques.<br><br>💬 Ask me about<br>AI, machine learning research, hackathons, and building scalable tech projects.<br><br>⚡ Fun fact<br>I recently won the Korn Ferry Scholarship and thrive in high-energy hackathon environments! 🚀
+## 💫 About Me:
+I am a second-year **Computer Science** student at **University of Wisconsin-Madison**, passionate about exploring **coding, machine learning**, and **building scalable software solutions**.
+
+🚀 **I'm currently working on**  
+Building a **real-time multiplayer quiz platform** that generates questions from PDFs and video URLs using **machine learning**.  
+
+🤝 **I'm looking to collaborate on**  
+Machine learning research, **AI-driven education tools**, and **innovative hackathon projects**.  
+
+🌱 **I'm currently learning**  
+Efficient **ML model deployment**, **RAG pipelines**, and **advanced NLP techniques**.  
+
+📌 **[Check out my coding portfolio!](https://justinkim13.github.io/Portfolio-Website/)**
 
 
 ## 🌐 Socials:
