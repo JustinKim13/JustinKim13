@@ -1,16 +1,16 @@
 <h1 align="center"> Hi 👋 I'm Justin Kim </h1>
 
 ## 💫 About Me:
-I am a second-year **Computer Science** student at **University of Wisconsin-Madison**, passionate about exploring **coding, machine learning**, and **building scalable software solutions**.
+* I am a second-year **Computer Science** student at **University of Wisconsin-Madison**, passionate about exploring **coding, machine learning**, and **building scalable software solutions**.
 
 🚀 **I'm currently working on**  
-Building a **real-time multiplayer quiz platform** that generates questions from PDFs and video URLs using **machine learning**.  
+* Building a **real-time multiplayer quiz platform** that generates questions from PDFs and video URLs using **machine learning**.  
 
 🤝 **I'm looking to collaborate on**  
-Machine learning research, **AI-driven education tools**, and **innovative hackathon projects**.  
+* Machine learning research, **AI-driven education tools**, and **innovative hackathon projects**.  
 
 🌱 **I'm currently learning**  
-Efficient **ML model deployment**, **RAG pipelines**, and **advanced NLP techniques**.  
+ * Efficient **ML model deployment**, **RAG pipelines**, and **advanced NLP techniques**.  
 
 📌 **Check out my [Coding Portfolio!](https://justinkim13.github.io/Portfolio-Website/)**
 
