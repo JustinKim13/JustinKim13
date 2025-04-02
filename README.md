@@ -12,7 +12,7 @@
 🌱 **I'm currently learning**  
  * Efficient **ML model deployment**, **RAG pipelines**, and **advanced NLP techniques**.  
 
-📌 **Check out my [*Coding Portfolio!*]([https://justinkim13.github.io/Portfolio-Website/](https://justin-kim-portfolio-fqod0ikns-justin-kims-projects-ecd71069.vercel.app/])**
+📌 **Check out my [*Coding Portfolio!*]([https://justin-kim-portfolio-fqod0ikns-justin-kims-projects-ecd71069.vercel.app/])**
 
 
 ## 🌐 Socials:
