@@ -6,9 +6,6 @@
 🚀 **I'm currently working on**  
 * Lately, I’ve been scaling **MadLease**, a subleasing platform for UW students. It's fully deployed with encrypted messaging, dynamic mapping, S3 image hosting, and real-time updates. Right now, I’m focused on growing users, adding polish, and testing out small-scale marketing strategies to get it in front of more students.
 
-🌱 **I'm currently learning**  
- * Clean code, real-world impact, and working with smart people. I’ve led ML projects, built full-stack systems from scratch, and worked on production software in fast-moving teams.
-
 📌 **Check out my [*Coding Portfolio!*](https://justinkim.vercel.app/)**
 
 
